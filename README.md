@@ -4,6 +4,8 @@ I work on machine learning for health at Hugging Face. 🤗
 
 Feel free to reach out over Twitter/X or LinkedIn!
 
+> But I hit you up on LinkedIn and didn't hear back :) 
+
 <!--
 **katielink/katielink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
