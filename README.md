@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work on machine learning for health at Hugging Face. 🤗
+I lead healthcare and life sciences applications of ML at Hugging Face. 🤗
 
 Feel free to reach out over Twitter/X or LinkedIn!
 
