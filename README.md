@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I lead healthcare and life sciences applications of ML at Hugging Face. 🤗
+I'm a PM working on digital health and applied AI research at NVIDIA.
 
 Feel free to reach out over Twitter/X or LinkedIn!
 
