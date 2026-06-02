@@ -4,6 +4,8 @@ I'm a PM working on digital health and applied AI research at NVIDIA.
 
 Feel free to reach out over Twitter/X or LinkedIn!
 
+> But I hit you up on LinkedIn and didn't hear back :) 
+
 <!--
 **katielink/katielink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
